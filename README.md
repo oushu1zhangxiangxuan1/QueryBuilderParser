@@ -1,2 +1,2 @@
 # QueryBuilderParser
-Golamg parser of Angular-QueryBuilder.
+Golang parser of Angular-QueryBuilder.
